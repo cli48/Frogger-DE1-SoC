@@ -9,4 +9,5 @@ Below is a short video depicting the moving hitbox prototypes and simpliest form
 # With graphics
 The video listed below will show more refined game mechanics with improved graphics thanks to Python script libraries like pillow to do image preprocessing to get pixel coordinates and color values. This mock up implements moving enemies (cars) and object riding before reaching goal post. The presentation linked with this github post will elaborate more on the ideas, for code implmenetations please contact me.
 
-[![Video Title](https://img.youtube.com/vi/9m5iKHtU3EM-Y/0.jpg)](https://www.youtube.com/watch?v=9m5iKHtU3EM)
+<!-- [![Video Title](https://img.youtube.com/vi/9m5iKHtU3EM-Y/0.jpg)](https://www.youtube.com/watch?v=9m5iKHtU3EM) -->
+[![Video Title](https://img.youtube.com/vi/9m5iKHtU3EM/0.jpg)](https://www.youtube.com/watch?v=9m5iKHtU3EM)

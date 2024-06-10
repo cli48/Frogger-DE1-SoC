@@ -1,5 +1,5 @@
 # The objective:
-Welcome to my frogger demonstration videos and presentation page! The goal here is to recreate the classic game frogger with it's original rules onto a custom piece of hardware. The hardware is a DE1-SoC board, support a A9 dual ARM core processor. A "hard processor system" (HPS), allowing access to onboard FPGA peripherals and hardware memory addressing via virtual address linking. There will be three video demonstrations and presentations of my three week journey in replicating this game.
+Welcome to my frogger demonstration videos and presentation page! The goal here is to recreate the classic game frogger with it's original rules onto a custom piece of hardware. The hardware is a DE1-SoC board, support a A9 dual ARM core processor. A "hard processor system" (HPS), allowing access to onboard FPGA peripherals and hardware memory addressing via virtual address linking. There will be three video demonstrations and presentation of my three week journey in replicating this game.
 
 # The prototype 
 Below is a short video depicting the moving hitbox prototypes and simpliest form of gameplay before adding more advanced algorithms for visual rendering. In essence the video rendering is made possibly by performing user level requests to the custom made kerenal driver for the VGA port. I developed the kernal driver for the VGA display port to be able to draw squares, lines and decisive pixels at specific locations and colors. The FPS in the top left corner is mislabelled and is actually counting how many frames has past, the game uses a double buffering system for pixel updating and erasing to be done. The true FPS is determined by how often the double buffer switches, the fastest time for the register flag to change is 1/60 seconds, i.e 60 FPS.
@@ -19,4 +19,4 @@ This is the final product of my frogger game, I've implemented crocodile enemies
 
 
 # Thanks for visiting!
-Please do not reuse my material without permission, please contact me at calvinhuanli@gmail.com for inquires about this project. 
+Please do not reuse my material without permission, please contact me at calvinhuanli@gmail.com for inquires about this project. Please note the presentations have been modified to not include explict programming techniques for the DE1-SoC for copyright purposes. The presentations will go over programming concepts and technicals of user and kernal level relationships. 

@@ -19,4 +19,4 @@ This is the final product of my frogger game, I've implemented crocodile enemies
 
 
 # Thanks for visiting!
-Please do not reuse my material without permission, please contact me at calvinhuanli@gmail.com for inquires about this project. Please note the presentations have been modified to not include explict programming techniques for the DE1-SoC for copyright purposes. The presentations will go over programming concepts and technicals of user and kernal level relationships. 
+Please do not reuse my material without permission, please contact me at calvinhuanli@gmail.com for inquires about this project. Please note the presentations have been modified to not include explict programming techniques for the DE1-SoC for copyright purposes. The presentations will go over programming concepts and technicals of user and kernal level relationships. More documentation on code can be provided upon request.
